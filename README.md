@@ -77,6 +77,8 @@ Contact
 If you have any questions or need assistance, feel free to contact me at gyamfiabraham95@gmail.com
 
 **Contribution Guide**
+
+
 While this app is simple, contributions and suggestions are welcome. If you'd like to contribute to this project, please follow these guidelines:
 
 Fork the repository on GitHub.
